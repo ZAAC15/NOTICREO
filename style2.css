@@ -211,17 +211,31 @@ ul li a:hover {
 
 /* Responsive */
 @media (max-width: 768px) {
-    .container {
-        padding: 16px;
-    }
+    .logo {
+        font-size: 30px;
+      }
+      .menu {
+        align-items: center;
+        float: right;
+      padding: 30px;
+      margin: 0;
+      width: 60%;
+      height: 60%;
+      display: flex;
+      justify-content: space-between;
     
-    .news-image {
-        height: 180px;
-    }
+      }
     
-    .news-title {
-        font-size: 18px;
-    }
+      ul li a {
+        font-size: 5px;
+        display: block;
+        text-transform: uppercase;
+        padding: 8px;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        text-decoration: none;
+      }
 }
 
 
