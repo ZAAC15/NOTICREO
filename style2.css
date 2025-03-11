@@ -227,11 +227,10 @@ ul li a:hover {
       }
     
       ul li a {
-        font-size: 5px;
+        font-size: 15px;
         display: block;
         text-transform: uppercase;
         padding: 8px;
-        font-size: 20px;
         font-weight: bold;
         color: white;
         text-decoration: none;
