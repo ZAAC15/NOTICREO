@@ -355,11 +355,11 @@ footer .social-media a:hover {
 }
 
 /* HTML3 */
-main{
+.contact-section{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 350px;
+    margin-top: 400px;
 }
 .loader {
     position: relative;
