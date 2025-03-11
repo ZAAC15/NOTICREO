@@ -355,6 +355,9 @@ footer .social-media a:hover {
 }
 
 /* HTML3 */
+main.contact-section{
+  margin-top: 200px;
+}
 .contact-section{
     display: flex;
     justify-content: center;
